@@ -7,7 +7,7 @@ import FooterSection from './components/sections/FooterSection';
 
 function App() {
   return (
-    <div className="min-h-screen bg-linear-bg">
+    <div className="min-h-screen bg-background">
       <Navigation />
       <HeroSection />
       <TechStackSection />
